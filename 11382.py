@@ -1,0 +1,5 @@
+a,b,c = input().split()
+ai = int(a)
+bi = int(b)
+ci = int(c)
+print(ai+bi+ci)
